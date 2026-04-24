@@ -71,8 +71,8 @@ The customer_behavior_dashboard.pbix file consolidates the processed data into a
     Demographic distributions of the customer base .
 
     Behavioral patterns of subscribers vs. non-subscribers .
-    ![](images/analysis_dashboard.png)
-
+    
+![](images/analysis_dashboard.png)
 
 Key Insights
 
